@@ -1,0 +1,33 @@
+.form-container {
+    margin: 0 auto;
+    width: 300px;
+}
+
+.add-btn {
+    margin: 10px;
+    box-shadow: 1px 1px 1px 1px;
+    background-color: purple;
+    color: white;
+    width: 100px;
+    border-radius: 10%;
+}
+
+.todo-list {
+    color: blue;
+    width: 400px;
+    margin: 0 auto;
+    border: 1px solid grey;
+
+}
+
+.delete-btn {
+    margin: 10px;
+    background-color: red;
+    color: white;
+    width: 60px;
+
+}
+
+.completed {
+    text-decoration: line-through;
+}
